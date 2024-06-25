@@ -1,4 +1,4 @@
-Administrador de Gastos
+
 Este es un administrador de gastos hecho con React y JavaScript. La aplicación permite a los usuarios agregar y eliminar gastos.
 
 Características
@@ -14,20 +14,16 @@ Instalación
 Sigue estos pasos para instalar y ejecutar la aplicación localmente.
 
 Clona este repositorio:
-
-Copiar código
 git clone https://github.com/Fraank-00/distribuci-n.git
+
+
+
 Navega al directorio del proyecto:
-
-
-Copiar código
 cd distribuci-n
+
 Instala las dependencias:
-
-Copiar código
 npm install
-Inicia la aplicación:
 
-Copiar código
+Inicia la aplicación:
 npm start
 La aplicación se abrirá en tu navegador en http://localhost:3000.
