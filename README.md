@@ -14,12 +14,12 @@ Instalación
 Sigue estos pasos para instalar y ejecutar la aplicación localmente.
 
 Clona este repositorio:
-git clone https://github.com/Fraank-00/distribuci-n.git
+git clone https://github.com/Fraank-00/distribucion.git
 
 
 
 Navega al directorio del proyecto:
-cd distribuci-n
+cd distribucion
 
 Instala las dependencias:
 npm install
